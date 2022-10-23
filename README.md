@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Akramuzzaman
 #### Software Engineer (Mobile)
-![Software Engineer (Mobile)]([C:/Users/User/Downloads/Portfolio.jpg](https://drive.google.com/file/d/1ASr-KS4611Zcd8XFL1NFpVOofQScKN-F/view?usp=sharing))
+![Software Engineer (Mobile)]([https://drive.google.com/file/d/1ASr-KS4611Zcd8XFL1NFpVOofQScKN-F/view?usp=sharing](https://drive.google.com/file/d/1ASr-KS4611Zcd8XFL1NFpVOofQScKN-F/view?usp=sharing))
 
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Dart, Flutter, and C (Programming Language). Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Engineering from Bangladesh University of Business and Technology.
 
