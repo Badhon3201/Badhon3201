@@ -6,7 +6,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 
 Skills: Flutter / Dart / PHP
 
-- 🔭 I’m currently working on Riseup Labs 
+- 🔭 I’m currently working on Flutter, Dart 
 - 🌱 I’m currently learning C# 
 - 👯 I’m looking to collaborate on Github 
 
