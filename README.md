@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Akramuzzaman
 #### Software Engineer (Mobile)
-![Software Engineer (Mobile)](https://media-exp1.licdn.com/dms/image/C5616AQE81rwRNQbbhg/profile-displaybackgroundimage-shrink_350_1400/0/1644685487740?e=1672272000&v=beta&t=INyoj2nNTRFBbZDlxt-hNUweLK2Kf7UzAxt_y-It7CU)
+![Software Engineer (Mobile)](https://media.licdn.com/dms/image/C5616AQE81rwRNQbbhg/profile-displaybackgroundimage-shrink_200_800/0/1644685487740?e=2147483647&v=beta&t=bh4D3qjxC3ewQIr4GQB62Ef2QKfSuQlqYmWeF8D5t44)
 
 Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Dart, Flutter, and C (Programming Language). Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Engineering from Bangladesh University of Business and Technology.
 
