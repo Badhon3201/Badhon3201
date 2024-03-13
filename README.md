@@ -17,4 +17,4 @@ Skills: Flutter / Dart / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Badhon3201&show_icons=true)  
 
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
+![](https://komarev.com/ghpvc/?username=your-github-Badhon3201&base=1000)
